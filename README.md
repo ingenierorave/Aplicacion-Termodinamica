@@ -1,1 +1,1 @@
-# aplicacion-termodinamica
+# Aplicación Termodinámica
