@@ -9,12 +9,12 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         shadowColor: Colors.transparent,
         backgroundColor: Colors.transparent,
-        toolbarHeight: 120,
+        toolbarHeight: 117,
         titleTextStyle: const TextStyle(
           fontSize: 28,
         ),
         title: Text(
-          "TERMODINÁMICA",
+          "FLUID CALCULATOR",
           style: GoogleFonts.squadaOne(fontSize: 35),
         ),
         centerTitle: true,
